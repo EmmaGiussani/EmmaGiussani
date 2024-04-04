@@ -11,10 +11,6 @@
         </samp>
 </p>
 
-
-
-<br />
-
 <!-- About Section -->
  # About me
  
@@ -58,7 +54,7 @@
 
 
 <p align="left">
-  <a href="https://github.com/chiragjain307?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/EmmaGiussani?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -66,13 +62,13 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/chiragjain307">
+  <a href="https://github.com/EmmaGiussani">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmaGiussani&theme=radical&border=7F3FBF&background=0D1117" alt="Emma's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/chirag307">
+  <a href="https://github.com/EmmaGiussani">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmmaGiussani&theme=radical" alt="Emma's GitHub Contribution"/>
   </a>
 </p>
