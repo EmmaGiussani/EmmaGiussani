@@ -34,10 +34,19 @@
  <a href="https://www.iso.org/standard/74528.html" target="_blank">
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"  />
   </a> 
-
+  
    <a href="https://www.arduino.cc/" target="_blank">
-      <img src="https://img.shields.io/badge/Arduino-%2300599C.svg?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"  />
+    <img  src="https://img.shields.io/badge/Arduino-%2338B2AC.svg?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"  />
   </a> 
+  
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+  
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ubuntu-%23F24E1E.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  </a>
+  
 <br/>
 <br/>
  
