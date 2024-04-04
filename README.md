@@ -1,13 +1,13 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hi 👋, I'm
-                <b><a target="_blank" href="https://chirags-portfolio.vercel.app">Chirag Jain</a></b>
+                <b><a target="_blank" href="https://chirags-portfolio.vercel.app">Emma Giussani</a></b>
         </samp>
 </h3>
 
 
 <p align="center">
-        <samp>「 Hi, I'm a dedicated web developer based in Rajasthan, India. Drawing from a foundation in cloud computing and proficient knowledge of AWS services, I am constantly expanding my expertise in web development. With a diverse skill set, I aim to contribute innovatively to every project. 」
+        <samp>「 Hi, I'm a passionate Physics Student who love coding and tech, always learning and creating. Join me on a journey where scripts and more come to life!. 」
         </samp>
 </p>
 
