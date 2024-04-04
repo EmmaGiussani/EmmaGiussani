@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hi 👋, I'm
-                <b><a target="_blank" href="https://chirags-portfolio.vercel.app">Emma Giussani</a></b>
+               Emma Giussani
         </samp>
 </h3>
 
