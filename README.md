@@ -7,7 +7,7 @@
 
 
 <p align="center">
-        <samp>「 Hi, I'm a passionate Physics Student who love coding and tech, always learning and creating. Join me on a journey where scripts and more come to life!. 」
+        <samp>「 Hi, I'm a passionate Physics Student who love coding and tech, always learning and creating. Join me on a journey where scripts and more come to life! 」
         </samp>
 </p>
 
