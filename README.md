@@ -34,6 +34,10 @@
  <a href="https://www.iso.org/standard/74528.html" target="_blank">
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"  />
   </a> 
+
+   <a href="https://www.arduino.cc/" target="_blank">
+      <img src="https://img.shields.io/badge/Arduino-%2300599C.svg?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"  />
+  </a> 
 <br/>
 <br/>
  
