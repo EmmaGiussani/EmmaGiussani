@@ -24,11 +24,17 @@
 </p>
 
 <br/>
-<br/>
-<br/>
 
 ## Use To Code
-
+ <a href="https://www.python.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  </a> 
+  <a href="https://isocpp.org/" target="_blank">
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"  />
+  </a> 
+ <a href="https://www.iso.org/standard/74528.html" target="_blank">
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"  />
+  </a> 
 ![C](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
