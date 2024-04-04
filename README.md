@@ -21,7 +21,6 @@
  📧 &emsp; Reach me anytime: e.giussani11@campus.unimib.it<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/EmmaGiussani/EmmaGiussani/issues)
 
-</p>
 
 <br/>
 
@@ -35,10 +34,9 @@
  <a href="https://www.iso.org/standard/74528.html" target="_blank">
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"  />
   </a> 
-
 <br/>
-
 <br/>
+ 
 ## Statistics
 
 <p align="center">
